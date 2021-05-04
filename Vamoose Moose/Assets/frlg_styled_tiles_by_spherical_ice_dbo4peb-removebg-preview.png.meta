@@ -1,0 +1,3296 @@
+fileFormatVersion: 2
+guid: df03dab868cf1c447800e014c80ac286
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6378251126881730858
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_0
+  - first:
+      213: -4949955983756529086
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_1
+  - first:
+      213: -6773086778447083865
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_2
+  - first:
+      213: -4896555101916989217
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_3
+  - first:
+      213: -3333794929543009038
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_4
+  - first:
+      213: 5610228612688060425
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_5
+  - first:
+      213: -3226057478633013736
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_6
+  - first:
+      213: -8154118497920778122
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_7
+  - first:
+      213: -1309219240397197682
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_8
+  - first:
+      213: -4526983263842284412
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_9
+  - first:
+      213: -4109721817288059848
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_10
+  - first:
+      213: 1192528885283926572
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_11
+  - first:
+      213: 6078259214901066468
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_12
+  - first:
+      213: -7203441212588114387
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_13
+  - first:
+      213: 715743085219096079
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_14
+  - first:
+      213: 7118603623716074821
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_15
+  - first:
+      213: 521943065595243304
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_16
+  - first:
+      213: -9120497413611950857
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_17
+  - first:
+      213: -8002046519975100218
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_18
+  - first:
+      213: 7294338227426718703
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_19
+  - first:
+      213: 2868675661942171779
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_20
+  - first:
+      213: 9219415135948131930
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_21
+  - first:
+      213: -3005710900347398133
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_22
+  - first:
+      213: -7924506250302412036
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_23
+  - first:
+      213: 7893112514541242013
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_24
+  - first:
+      213: -1147677852879078096
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_25
+  - first:
+      213: -6751878852584733263
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_26
+  - first:
+      213: 4820706622942428004
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_27
+  - first:
+      213: -2422400944028253519
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_28
+  - first:
+      213: -4480832082294151358
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_29
+  - first:
+      213: -4415712452182886438
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_30
+  - first:
+      213: -5264573438844612549
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_31
+  - first:
+      213: -8088201104700995579
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_32
+  - first:
+      213: -3148169105503362482
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_33
+  - first:
+      213: 6273245162732788195
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_34
+  - first:
+      213: -6080944925539719965
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_35
+  - first:
+      213: -8461352310017295454
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_36
+  - first:
+      213: 4778918719049783864
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_37
+  - first:
+      213: 3904286188058299114
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_38
+  - first:
+      213: 7768031031712892952
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_39
+  - first:
+      213: -3327315551971418302
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_40
+  - first:
+      213: 498145571999690770
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_41
+  - first:
+      213: 5100445183847000802
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_42
+  - first:
+      213: 8394226326144730027
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_43
+  - first:
+      213: 819462215053332612
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_44
+  - first:
+      213: -5177332155034191452
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_45
+  - first:
+      213: 6683224385581056146
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_46
+  - first:
+      213: -397808156457898803
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_47
+  - first:
+      213: 3627466767059082887
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_48
+  - first:
+      213: 353152486756670510
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_49
+  - first:
+      213: 7891817089417158694
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_50
+  - first:
+      213: 9136102180884057098
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_51
+  - first:
+      213: -7439901862856223918
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_52
+  - first:
+      213: -6887902630376449883
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_53
+  - first:
+      213: 2773320677918701896
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_54
+  - first:
+      213: 2973290770373771832
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_55
+  - first:
+      213: -628529326899876826
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_56
+  - first:
+      213: 6780958040486244487
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_57
+  - first:
+      213: -5139428155599572618
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_58
+  - first:
+      213: -1663699606570482569
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_59
+  - first:
+      213: 435862816269497997
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_60
+  - first:
+      213: 3476772160059807000
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_61
+  - first:
+      213: 3398905187260310056
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_62
+  - first:
+      213: 8941009531487964081
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_63
+  - first:
+      213: -7915395521876254001
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_64
+  - first:
+      213: 915047092880083039
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_65
+  - first:
+      213: -8429749427587573236
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_66
+  - first:
+      213: 904217369766390112
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_67
+  - first:
+      213: -6826613427503491666
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_68
+  - first:
+      213: 8194110602271963321
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_69
+  - first:
+      213: 915012905532953210
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_70
+  - first:
+      213: 2612577514899587410
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_71
+  - first:
+      213: 3775891043929999342
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_72
+  - first:
+      213: 1194108076786553144
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_73
+  - first:
+      213: 1026316927631809338
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_74
+  - first:
+      213: 5602538377638548200
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_75
+  - first:
+      213: -198167965783308413
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_76
+  - first:
+      213: -8474460739535506322
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_77
+  - first:
+      213: 5113686409525989359
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_78
+  - first:
+      213: 4956500583173929249
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_79
+  - first:
+      213: -6609189483921581769
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_80
+  - first:
+      213: -264447561956183753
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_81
+  - first:
+      213: 6823427532216354798
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_82
+  - first:
+      213: -2406074744260168689
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_83
+  - first:
+      213: 511484955879949533
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_84
+  - first:
+      213: 5207829345083848481
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_85
+  - first:
+      213: -3171685477691473352
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_86
+  - first:
+      213: 1774139436266020498
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_87
+  - first:
+      213: -968506375734317724
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_88
+  - first:
+      213: -599545742831865127
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_89
+  - first:
+      213: -7469944067227066555
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_90
+  - first:
+      213: -435724730525279233
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_91
+  - first:
+      213: -2320295765832207052
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_92
+  - first:
+      213: -162090167013043623
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_93
+  - first:
+      213: 748525025045443982
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_94
+  - first:
+      213: 435974541073831445
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_95
+  - first:
+      213: -4620012182452061048
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_96
+  - first:
+      213: -1207895058500004952
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_97
+  - first:
+      213: -389749921768216375
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_98
+  - first:
+      213: -8750564546561011344
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_99
+  - first:
+      213: 7763774595069891627
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_100
+  - first:
+      213: -3691460442406073486
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_101
+  - first:
+      213: 4418855982936697203
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_102
+  - first:
+      213: -3553019271953557629
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_103
+  - first:
+      213: 2474023469760609495
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_104
+  - first:
+      213: -5160132073280779278
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_105
+  - first:
+      213: 8479588834636822885
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_106
+  - first:
+      213: 353841405294347737
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_107
+  - first:
+      213: -4104022386341313547
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_108
+  - first:
+      213: -5409859207942896729
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_109
+  - first:
+      213: -9002934708758284017
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_110
+  - first:
+      213: 7597789275863255865
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_111
+  - first:
+      213: 6943020345213564614
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_112
+  - first:
+      213: 7562755467670435832
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_113
+  - first:
+      213: -1153010468873705172
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_114
+  - first:
+      213: 1409413528042272766
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_115
+  - first:
+      213: -9205500480005193493
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_116
+  - first:
+      213: -5735336926808885295
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_117
+  - first:
+      213: 6913237987966336002
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_118
+  - first:
+      213: 8352567798650711504
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_119
+  - first:
+      213: 7631411856121237119
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_120
+  - first:
+      213: 795899859933910448
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_121
+  - first:
+      213: 4758110894430568547
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_122
+  - first:
+      213: 5580377936954256759
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_123
+  - first:
+      213: 6418992666954083099
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_124
+  - first:
+      213: -7330318962880582987
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_125
+  - first:
+      213: 2769174341210658575
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_126
+  - first:
+      213: 7920794788264895466
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_127
+  - first:
+      213: -347741345407053111
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_128
+  - first:
+      213: -2059837489826021295
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_129
+  - first:
+      213: 9067124169372022218
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_130
+  - first:
+      213: -8217697072929612379
+    second: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_131
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2145024b99148850800000000000000
+      internalID: 6378251126881730858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2427f5e32493e4bb0800000000000000
+      internalID: -4949955983756529086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a644c9d5792102a0800000000000000
+      internalID: -6773086778447083865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd87c1fe311fb0cb0800000000000000
+      internalID: -4896555101916989217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc279ebc2bfbb1d0800000000000000
+      internalID: -3333794929543009038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9002100f2398bdd40800000000000000
+      internalID: 5610228612688060425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e3619c0ddba33d0800000000000000
+      internalID: -3226057478633013736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6708df2bd60c6de80800000000000000
+      internalID: -8154118497920778122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ea4039908b4dde0800000000000000
+      internalID: -1309219240397197682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cca8ed4bcec21c0800000000000000
+      internalID: -4526983263842284412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8345fda08c557f6c0800000000000000
+      internalID: -4109721817288059848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22bdbfe3b6bc8010800000000000000
+      internalID: 1192528885283926572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea3cec4d805a5450800000000000000
+      internalID: 6078259214901066468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2eb643f16c380c90800000000000000
+      internalID: -7203441212588114387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f062de83b84dee900800000000000000
+      internalID: 715743085219096079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545b760a74c5ac260800000000000000
+      internalID: 7118603623716074821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b68c9e3705e3700800000000000000
+      internalID: 521943065595243304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc6acebceb7d6180800000000000000
+      internalID: -9120497413611950857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0cbb4361503f090800000000000000
+      internalID: -8002046519975100218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3725588f1ba3560800000000000000
+      internalID: 7294338227426718703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3882fddc0559fc720800000000000000
+      internalID: 2868675661942171779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e4c073831f1ff70800000000000000
+      internalID: 9219415135948131930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08164f6cd19946d0800000000000000
+      internalID: -3005710900347398133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfaac5a1d8f760290800000000000000
+      internalID: -7924506250302412036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96cb613308f98d60800000000000000
+      internalID: 7893112514541242013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d3f8ec211a210f0800000000000000
+      internalID: -1147677852879078096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b50731e4f18c42a0800000000000000
+      internalID: -6751878852584733263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b3bd2e12796e240800000000000000
+      internalID: 4820706622942428004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b200a30d27e16ed0800000000000000
+      internalID: -2422400944028253519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247eeac26f2e0d1c0800000000000000
+      internalID: -4480832082294151358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7be519bec38b2c0800000000000000
+      internalID: -4415712452182886438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30d5bba95a70f6b0800000000000000
+      internalID: -5264573438844612549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508006ac2ffe0cf80800000000000000
+      internalID: -8088201104700995579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42ec95d0e47f44d0800000000000000
+      internalID: -3148169105503362482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e910a90d3b0f0750800000000000000
+      internalID: 6273245162732788195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e4ad76fec42c9ba0800000000000000
+      internalID: -6080944925539719965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abfcf977ec339a80800000000000000
+      internalID: -8461352310017295454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a5d635141225240800000000000000
+      internalID: 4778918719049783864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeacdac2a9fce2630800000000000000
+      internalID: 3904286188058299114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818457901179dcb60800000000000000
+      internalID: 7768031031712892952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f5c15622003d1d0800000000000000
+      internalID: -3327315551971418302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210b97922c4c9e600800000000000000
+      internalID: 498145571999690770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea6d831fdb68c640800000000000000
+      internalID: 5100445183847000802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3c61e7e584e7470800000000000000
+      internalID: 8394226326144730027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480db1bfa805f5b00800000000000000
+      internalID: 819462215053332612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9bafee5db6628b0800000000000000
+      internalID: -5177332155034191452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29089c06b259fbc50800000000000000
+      internalID: 6683224385581056146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcce291e693ba7af0800000000000000
+      internalID: -397808156457898803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e57153ec9575230800000000000000
+      internalID: 3627466767059082887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c5dacc056a6e400800000000000000
+      internalID: 353152486756670510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620211784dd558d60800000000000000
+      internalID: 7891817089417158694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c04434784f9ce70800000000000000
+      internalID: 9136102180884057098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25310bc8ca820c890800000000000000
+      internalID: -7439901862856223918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8dee42d014960a0800000000000000
+      internalID: -6887902630376449883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849f69f7670dc7620800000000000000
+      internalID: 2773320677918701896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8328316d330434920800000000000000
+      internalID: 2973290770373771832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ca73348e30747f0800000000000000
+      internalID: -628529326899876826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780f208296dca1e50800000000000000
+      internalID: 6780958040486244487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671b8d482551da8b0800000000000000
+      internalID: -5139428155599572618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774c861c50a59e8e0800000000000000
+      internalID: -1663699606570482569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d867b8e0cee7c0600800000000000000
+      internalID: 435862816269497997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815155ddbd9ff3030800000000000000
+      internalID: 3476772160059807000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82222e772465b2f20800000000000000
+      internalID: 3398905187260310056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbc8b12cc8d41c70800000000000000
+      internalID: 8941009531487964081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc229ddd5bdd62290800000000000000
+      internalID: -7915395521876254001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f580fdb9b76e2bc00800000000000000
+      internalID: 915047092880083039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a171fee83830b80800000000000000
+      internalID: -8429749427587573236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069e9a438ec6c8c00800000000000000
+      internalID: 904217369766390112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_68
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea51eb2b14ff241a0800000000000000
+      internalID: -6826613427503491666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_69
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8bea2bd2457b170800000000000000
+      internalID: 8194110602271963321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_70
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72903fb367c2bc00800000000000000
+      internalID: 915012905532953210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25143c3686db14420800000000000000
+      internalID: 2612577514899587410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7c60026e8a66430800000000000000
+      internalID: 3775891043929999342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831994c18f2529010800000000000000
+      internalID: 1194108076786553144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_74
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3bd67adec53e3e00800000000000000
+      internalID: 1026316927631809338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_75
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e293af88f630cd40800000000000000
+      internalID: 5602538377638548200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_76
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387cf99f847ff3df0800000000000000
+      internalID: -198167965783308413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_77
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64fdf46bdaa46a80800000000000000
+      internalID: -8474460739535506322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_78
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef0a8c22b677f640800000000000000
+      internalID: 5113686409525989359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_79
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129391d050709c440800000000000000
+      internalID: 4956500583173929249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_80
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7395b9d6e217744a0800000000000000
+      internalID: -6609189483921581769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_81
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73132efe75e745cf0800000000000000
+      internalID: -264447561956183753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_82
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee74060403fa1be50800000000000000
+      internalID: 6823427532216354798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_83
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04755d94c7eb9ed0800000000000000
+      internalID: -2406074744260168689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_84
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd44e2f7bd8291700800000000000000
+      internalID: 511484955879949533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_85
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127f394723de54840800000000000000
+      internalID: 5207829345083848481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_86
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8324fe2ccd8ebf3d0800000000000000
+      internalID: -3171685477691473352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_87
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ed5a0ea620f9810800000000000000
+      internalID: 1774139436266020498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_88
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46da7a7259c2f82f0800000000000000
+      internalID: -968506375734317724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_89
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2b8ebc25cfda7f0800000000000000
+      internalID: -599545742831865127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_90
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fd4e4c27d655890800000000000000
+      internalID: -7469944067227066555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_91
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb10398aaef3f9f0800000000000000
+      internalID: -435724730525279233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_92
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4357abf5b47accfd0800000000000000
+      internalID: -2320295765832207052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_93
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9529a951ad320cdf0800000000000000
+      internalID: -162090167013043623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_94
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e85f25f5b8b436a00800000000000000
+      internalID: 748525025045443982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_95
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516d1d30984ec0600800000000000000
+      internalID: 435974541073831445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_96
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cb7fed56b62efb0800000000000000
+      internalID: -4620012182452061048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_97
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3582018d1bc3fe0800000000000000
+      internalID: -1207895058500004952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_98
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8e4c9d284579af0800000000000000
+      internalID: -389749921768216375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_99
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0719a1a48efbf8680800000000000000
+      internalID: -8750564546561011344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_100
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24d7572cd77ebb60800000000000000
+      internalID: 7763774595069891627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_101
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bcafb294c45ccc0800000000000000
+      internalID: -3691460442406073486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_102
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3792d88ba1ee25d30800000000000000
+      internalID: 4418855982936697203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_103
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387571ffbc321bec0800000000000000
+      internalID: -3553019271953557629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_104
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc7f01ec3f755220800000000000000
+      internalID: 2474023469760609495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_105
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbcff908378368b0800000000000000
+      internalID: -5160132073280779278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_106
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56975e94e1d8da570800000000000000
+      internalID: 8479588834636822885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_107
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5056522e819e400800000000000000
+      internalID: 353841405294347737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_108
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f300e732659b07c0800000000000000
+      internalID: -4104022386341313547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_109
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a300b986b15ce4b0800000000000000
+      internalID: -5409859207942896729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_110
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f097d6cf4962f0380800000000000000
+      internalID: -9002934708758284017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_111
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b0a127715c07960800000000000000
+      internalID: 7597789275863255865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_112
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6b3c0e7309a5060800000000000000
+      internalID: 6943020345213564614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_113
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7b3a5570e44f860800000000000000
+      internalID: 7562755467670435832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_114
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29e974661fafffe0800000000000000
+      internalID: -1153010468873705172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_115
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7f698e22e3f8310800000000000000
+      internalID: 1409413528042272766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_116
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be04a95161e7f3080800000000000000
+      internalID: -9205500480005193493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_117
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d73062c37df760b0800000000000000
+      internalID: -5735336926808885295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_118
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c38787251c0ff50800000000000000
+      internalID: 6913237987966336002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_119
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd21f8b8284ae370800000000000000
+      internalID: 8352567798650711504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_120
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7e8fc276a838e960800000000000000
+      internalID: 7631411856121237119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_121
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5d42ca4ba9b0b00800000000000000
+      internalID: 795899859933910448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_122
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360437026a4380240800000000000000
+      internalID: 4758110894430568547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_123
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77de594ea2c717d40800000000000000
+      internalID: 5580377936954256759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_124
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1ba2a142d7d41950800000000000000
+      internalID: 6418992666954083099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_125
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba613fadb9754a90800000000000000
+      internalID: -7330318962880582987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_126
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07dcf044651e6620800000000000000
+      internalID: 2769174341210658575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_127
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae36b4dc4e05ced60800000000000000
+      internalID: 7920794788264895466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_128
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2db49b6139c2bf0800000000000000
+      internalID: -347741345407053111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_129
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15043eb67bcf963e0800000000000000
+      internalID: -2059837489826021295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_130
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac537c17465e4dd70800000000000000
+      internalID: 9067124169372022218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frlg_styled_tiles_by_spherical_ice_dbo4peb-removebg-preview_131
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad53482d00e4fd80800000000000000
+      internalID: -8217697072929612379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
